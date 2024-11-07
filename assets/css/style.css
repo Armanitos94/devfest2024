@@ -292,8 +292,20 @@ tr {
   padding-bottom: 35px;
 }
 
+.bg-agenda {
+  background-color: #f8d8d8;
+}
+
 .bg-about h2, {
     color: #202124;
+}
+
+.thumbnail-shedule {
+  padding: 50px; 
+  margin-bottom: 9vh; 
+  border-radius: 20px; 
+  margin-top: 9vh; 
+  border: 2px solid #202124;
 }
 
 .div-block-114 a{
