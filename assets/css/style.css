@@ -83,7 +83,7 @@ a{
 }
 
 .cmd-img{
-  width: 200px;
+  padding: 15px;
 }
 
 .navbar{
@@ -233,12 +233,18 @@ li {
 
 .caption > h4 {
   margin-bottom: 0px;
-  font-weight: bolder;
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 5px;
+  padding-bottom: 10px;
 }
 
 .caption > p {
-    font-size: 14px;
-    line-height: 1.42857143;
+  opacity: .8;
+  font-weight: 600;
+  font-size: 16px;
+  padding-left: 5px;
+  margin-bottom: 0px;
 }
 
 .title {
@@ -279,6 +285,13 @@ tr {
     padding-bottom: 35px;
 }
 
+.bg-tickets {
+  background-color: #cbf0f8;
+  margin-top: 0px;
+  color: #fff;
+  padding-bottom: 35px;
+}
+
 .bg-about h2, {
     color: #202124;
 }
@@ -297,6 +310,25 @@ h2.title {
 
 .speaker {
   cursor: pointer;
+  border-radius: 16px;
+  border-top-left-radius: 0;
+}
+
+.time-slot {
+  display: inline-block;
+  padding: 15px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.speaker-hard-skills .time-slot, .speaker-hard-skills .speaker {
+  background-color: #ccf6c5;
+}
+
+.speaker-soft-skills .time-slot, .speaker-soft-skills .speaker {
+  background-color: #ffe7a5;
 }
 
 #reportName, #speakerName, #speakerCompany {
