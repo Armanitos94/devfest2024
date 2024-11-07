@@ -1,0 +1,286 @@
+body {
+  position: relative;
+}
+.header-filter:after {
+    background-color: transparent;
+}
+
+.alert {
+    font-size: 15px;
+}
+
+.alert.alert-info {
+    background-color: #4a8af4;
+}
+
+.logo{
+    margin-top: 12px;
+    padding-left: 15px;
+}
+
+.index-page .brand {
+  margin-top: 21vh;
+}
+
+.logo img {
+  display: inline-block;
+  margin-top:-5px;
+}
+
+.wrapper > .header {
+  background-attachment: fixed;
+}
+
+.thumbnail-mod{
+	border: 1px solid black;
+	max-width: 33.33;
+}
+
+h2{
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.cmd{
+  color: #ffba00;
+}
+
+.slk{
+  height: 50px;
+}
+
+.slk2{
+  height: 30px;
+  width: 72.5px;
+}
+
+.label-mod{
+  background-color: white;
+  color: black;
+  text-transform: none;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.vk{
+  padding: 5px 5px;
+}
+
+h6{
+  text-transform: none;
+}
+
+a{
+  text-transform: none;
+}
+
+.thumbnail {
+  border: 0;
+}
+
+.cmd-img{
+  width: 200px;
+  padding-top: 15px;
+}
+
+.navbar .navbar-nav > li > a {
+  font-size: 15px;
+}
+
+.schedule-info p{
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.2em;
+}
+
+.schedule-day {
+  font-size: 35px;
+    color: #fff;
+    line-height: 1.3em;
+}
+
+p{
+  font-size: 18px;
+  line-height: 2em;
+}
+
+.track-img{
+  width: 200px;
+}
+
+hr{
+  margin-bottom: 0;
+}
+
+.container-fluid{
+  margin-top: 40px;
+}
+
+#schedule{
+  border-radius: 4px;
+}
+
+.bg-clr-cmd{
+  background-size: inherit;
+  background-attachment: fixed;
+  padding-bottom: 35px;
+  margin-top: 0px;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.partner{
+  max-width: 250px;
+  display: inline-block;
+}
+
+.ticket {
+  padding: 20px; 
+  color: #333;
+}
+
+.ticket p {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.badge-warning {
+  background-color: #ffba00;
+}
+
+.ticket .price {
+  font-size: 1.825em;
+  line-height: 1.4em;
+  margin: 20px 0 10px;
+}
+
+.badge {
+  border: none;
+  border-radius: 3px;
+  padding: 6px 15px;
+  margin: 10px 1px;
+  font-weight: 400;
+  letter-spacing: 0;
+  will-change: box-shadow, transform;
+  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.contacts{
+  margin-top: 40px;
+}
+
+.logo > span {
+  color: #fff; 
+  font-size: 20px; 
+  font-weight: normal;
+}
+
+.caption > a > .slk {
+    height: 40px;
+}
+
+.caption > a {
+    padding: 0px 5px !important;
+}
+
+h4, .h4 {
+    font-size: 1.5em;
+}
+
+.info-partners a {
+  display:inline-block;
+  padding: 0px 2em;
+}
+
+.navbar, .navbar.navbar-default {
+    background-color: #000;
+}
+
+a, a:hover, a:focus {
+  text-decoration: none !important;
+  color: #4379d4;
+}
+
+li {
+  font-size: 16px;
+  line-height: 1.7em;
+}
+
+.caption > h4 {
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+
+.caption > p {
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+.title {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+tr {
+    color: #3C4858;
+    font-size: 18px;
+    line-height: 1.2em;
+  }
+
+.cmd-green {
+  background-color: #00ab47;
+  padding-bottom: 90px;
+}
+
+.close {
+    font-size: 21px;
+}
+
+#staticBackdropLabel {
+      font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.5em;
+    font-size: 16px;
+}
+
+.wrapper > .header {
+    background-size: inherit;
+}
+
+.bg-about {
+  background-color: #171718;
+    margin-top: 0px;
+    color: #fff;
+    padding-bottom: 35px;
+}
+
+.bg-about h2{
+    color: #ffba00;
+}
+
+.div-block-114 a{
+  padding: 5px;
+}
+
+.div-block-114 img{
+  width: 40px;
+}
+
+h1, .h1 {
+  font-size: 3.2em;
+}
+
+h2.title {
+  margin-bottom: 0px;
+  padding-top: 0px;
+}
+
+.speaker {
+  cursor: pointer;
+}
+
+#reportName, #speakerName, #speakerCompany {
+  font-weight: 600;
+}
