@@ -311,6 +311,14 @@ tr {
     padding-bottom: 70px;
 }
 
+.ico {
+  max-width: 30px;
+}
+
+.ticket .ico {
+   max-width: 20px; 
+}
+
 .bg-soon p {
   height: 12rem; 
   padding: 4rem; 
