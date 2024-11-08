@@ -283,6 +283,10 @@ tr {
     padding-bottom: 35px;
 }
 
+.bg-contacts {
+  padding-bottom: 80px;
+}
+
 .bg-footer {
   background-color: #fff;
 }
@@ -304,6 +308,7 @@ tr {
 
 .bg-soon{
     background-color: #ffe7a5;
+    padding-bottom: 70px;
 }
 
 .bg-soon p {
