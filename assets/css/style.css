@@ -412,3 +412,9 @@ h2.title {
     color: #ffffff;
     border-radius: 16px;
 }
+
+.alert.alert-success {
+    background-color: #5cdb6d;
+    color: #ffffff;
+    border-radius: 16px;
+}
